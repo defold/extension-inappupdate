@@ -1,4 +1,2 @@
-# Native extension template
-This template contains the basic setup for creation of a Defold native extension.
-
-You can learn more about native extensions in the [official manual](https://www.defold.com/manuals/extensions/).
+# In-app Update
+"When your users keep your app up to date on their devices, they can try new features, as well as benefit from performance improvements and bug fixes. Although some users enable background updates when their device is connected to an unmetered connection, other users might need to be reminded to install updates. In-app updates is a Play Core library feature that prompts active users to update your app." - [source](https://developer.android.com/guide/playcore/in-app-updates)
